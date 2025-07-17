@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Rohit pr , engennering student in christ university , bengaluru ,KA 
-- 📫 How to reach me ...rprtuttu@gmail.com
-- ⚡ Fun fact: ...coding!
+-  Hi, I’m Rohit'
+-  Find me at ...rprtuttu@gmail.com
+-  Code Generalist
 
 
