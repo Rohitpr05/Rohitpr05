@@ -8,8 +8,8 @@
 
 ## 📫 How to reach me  
 - 📧 Email: **rprtutu@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/rohitpr05)  
-- 🐦 Twitter: [twitter.com/your-handle](https://twitter.com/rohitpr05)  
+- 💼 LinkedIn: [linkedin.com/in/rohitpr05](https://linkedin.com/in/rohitpr05)  
+- 🐦 Twitter: [twitter.com/rohitpr05](https://twitter.com/rohitpr05)  
 
 ---
 
@@ -24,6 +24,3 @@
 ## ⚡ Fun Fact  
 I enjoy **coding and building new projects**.  
 
----
-
-⭐ *If you like my work, consider following me on GitHub!*  
