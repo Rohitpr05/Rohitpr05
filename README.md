@@ -21,15 +21,8 @@
 
 ---
 
-## 🌱 Currently Learning  
-- Cloud Computing & DevOps  
-- Advanced Data Structures & Algorithms  
-- AI/ML for automation  
-
----
-
 ## ⚡ Fun Fact  
-I love turning **ideas into products** and dreaming about the **next billion-dollar SaaS**.  
+I enjoy **coding and building new projects**.  
 
 ---
 
