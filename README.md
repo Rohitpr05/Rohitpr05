@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Rohit Pr  
+
 
     Engineering student at **Christ University, Bengaluru, KA**  
     Here to share my findings **coding, startups, and building impactful products**  
