@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Rohit Pr  
+# Hi, I’m Rohit Pr  
 
     Engineering student at **Christ University, Bengaluru**  
     Here for **coding, startups, and building impactful products**  
