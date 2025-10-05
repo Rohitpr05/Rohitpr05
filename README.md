@@ -1,11 +1,12 @@
+# Hi, I’m Rohit Pr  
 
-
-    Engineering student at **Christ University, Bengaluru, KA**  
-    Here to share my findings **coding, startups, and building impactful products**  
+    Engineering student at **Christ University, Bengaluru**  
+    Here for **coding, startups, and building impactful products**  
     Currently on  **SaaS, AI, web3, and automation projects**  
 ---
 reach me  
 - 📧 Email: **rprtutu@gmail.com**  
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
