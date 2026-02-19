@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I’m a Computer Science student majoring in CSE with a minor in Psychology, obsessed with building things that actually matter. I’m deeply interested in entrepreneurship, SaaS, tech-driven products, and the psychology behind why people click, buy, and stay.<br><br>I enjoy solving real-world problems, experimenting with ideas, and thinking in systems instead of shortcuts. Always learning, always building, always leveling up.<br><br>If it’s innovative, scalable, and slightly ambitious — I’m all in.
 
 
