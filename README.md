@@ -12,7 +12,9 @@ I’m a Computer Science student majoring in CSE with a minor in Psychology, obs
 
 ![Streak](https://streak-stats.demolab.com?user=Rohitpr05&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rohitpr05&layout=compact&theme=tokyonight&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rohitpr05&theme=tokyo-night&hide_border=true)
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohitpr05&theme=tokyonight)
 
 
 
