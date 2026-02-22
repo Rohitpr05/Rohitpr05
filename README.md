@@ -1,5 +1,5 @@
 #  About Me:
-I’m a Computer Science major with a minors in Psychology, obsessed with building things that actually matter. I’m deeply interested in entrepreneurship, SaaS, tech-driven products, and the psychology behind why people click, buy, and stay.<br><br>I enjoy solving real-world problems, experimenting with ideas, and thinking in systems instead of shortcuts. Always learning, always building, always leveling up.<br><br>If it’s innovative, scalable, and slightly ambitious — I’m all in.
+Computer Science major with a minor in Psychology, focused on building scalable, high-impact technology. I’m interested in SaaS, product-driven systems, and the behavioral principles that influence how people use technology. I approach problems with a systems mindset, combining technical execution with an understanding of user psychology. I care about building products that solve real problems, create measurable value, and can scale beyond small experiments. Always learning, always building, and always aiming to create work that compounds over time.
 
 
 ##  Socials:
