@@ -12,7 +12,7 @@ Computer Science major with a minor in Psychology, focused on building scalable,
 
 ![Streak](https://streak-stats.demolab.com?user=Rohitpr05&theme=tokyonight&hide_border=true)
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohitpr05&theme=tokyonight).
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohitpr05&theme=tokyonight)
 
 
 
