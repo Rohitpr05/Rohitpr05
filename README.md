@@ -1,5 +1,5 @@
 #  About Me:
-Computer Science major with a minor in Psychology, focused on building scalable, high-impact technology. I’m interested in SaaS, product-driven systems, and the behavioral principles that influence how people use technology. I approach problems with a systems mindset, combining technical execution with an understanding of user psychology. I care about building products that solve real problems, create measurable value, and can scale beyond small experiments. Always learning, always building, and always aiming to create work that compounds over time.
+Computer Science major with a minor in Psychology, focused on building scalable, high-impact technology. I’m interested in SaaS, product-driven systems, and the behavioral principles that influence how people use technology. I approach problems with a systems mindset, combining technical execution with an understanding of user psychology. I care about building products that solve real problems, create measurable value, and can scale beyond small experiments. Always learning, always building, and always aiming to create work that compounds over time. 
 
 
 ##  Socials:
