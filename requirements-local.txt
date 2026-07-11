@@ -1,0 +1,9 @@
+# One-time, LOCAL ONLY -- for generating avi-ascii.svg and info-card.svg.
+# Not needed by the GitHub Actions workflow (which only re-renders the
+# contribution heatmap and uses scripts/requirements.txt instead).
+pillow
+numpy
+opencv-python-headless
+rembg
+onnxruntime
+cairosvg      # optional: only needed if you want to render a PNG preview locally

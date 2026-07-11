@@ -1,0 +1,4 @@
+# Used by .github/workflows/update-profile-art.yml on every daily run.
+# Deliberately lightweight -- no image libs needed here, that's the local-only side.
+requests
+beautifulsoup4

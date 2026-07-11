@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 400" width="490" height="400">
+<style>
+      .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 14px; }
+      .prompt { fill: #58a6ff; }
+      .label  { fill: #6e7681; }
+      .value  { fill: #c9d1d9; }
+      .row { opacity: 0; animation: fadein 0.4s ease-out forwards; }
+      @keyframes fadein { to { opacity: 1; } }
+    </style>
+<rect x="0" y="0" width="490" height="400" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<circle cx="20" cy="18" r="5" fill="#ff5f56"/>
+<circle cx="38" cy="18" r="5" fill="#ffbd2e"/>
+<circle cx="56" cy="18" r="5" fill="#27c93f"/>
+<line x1="0" y1="32" x2="490" y2="32" stroke="#30363d" stroke-width="1"/>
+<text x="24" y="40" class="mono prompt row" style="animation-delay:0s">rohitpr05@github:~$ whoami</text>
+<text x="24" y="76" class="mono row" style="animation-delay:0.15s"><tspan class="label">role:     </tspan><tspan class="value"> CS Undergrad (B.Tech + Psych minor)</tspan></text>
+<text x="24" y="102" class="mono row" style="animation-delay:0.27s"><tspan class="label">focus:    </tspan><tspan class="value"> Backend systems, AI/LLM pipelines</tspan></text>
+<text x="24" y="128" class="mono row" style="animation-delay:0.39s"><tspan class="label">stack:    </tspan><tspan class="value"> Python, TypeScript, GCP, AWS</tspan></text>
+<text x="24" y="154" class="mono row" style="animation-delay:0.51s"><tspan class="label">infra:    </tspan><tspan class="value"> Grafana / Loki / Prometheus</tspan></text>
+<text x="24" y="180" class="mono row" style="animation-delay:0.63s"><tspan class="label">current:  </tspan><tspan class="value"> RAG pipelines, observability tooling</tspan></text>
+<text x="24" y="206" class="mono row" style="animation-delay:0.75s"><tspan class="label">club:     </tspan><tspan class="value"> CanSat telemetry, Rocketry Club</tspan></text>
+<text x="24" y="232" class="mono row" style="animation-delay:0.87s"><tspan class="label">linkedin: </tspan><tspan class="value"> linkedin.com/in/rohitpr05</tspan></text>
+<text x="24" y="274" class="mono prompt row" style="animation-delay:1.19s">rohitpr05@github:~$ <tspan class="value">_</tspan></text>
+</svg>

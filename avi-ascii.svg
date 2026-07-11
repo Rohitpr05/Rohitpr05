@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 419" width="420" height="419">
+<style>
+    .ascii-line {
+      font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+      font-size: 7px;
+      white-space: pre;
+      fill: #c9d1d9;
+    }
+    
+    .ascii-line {
+      opacity: 0;
+      animation: reveal 0.35s ease-out forwards;
+    }
+    @keyframes reveal {
+      to { opacity: 1; }
+    }
+    .cursor {
+      fill: #c9d1d9;
+      animation: blink 0.9s steps(1) infinite;
+      animation-delay: 1.60s;
+    }
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+    </style>
+<rect x="0" y="0" width="420" height="419" fill="#0d1117" rx="6"/>
+<text x="10" y="14.0" class="ascii-line" style="animation-delay:0.000s">                                                                                                              </text>
+<text x="10" y="21.0" class="ascii-line" style="animation-delay:0.028s">                                                                                                              </text>
+<text x="10" y="28.0" class="ascii-line" style="animation-delay:0.056s">                                                                                                              </text>
+<text x="10" y="35.0" class="ascii-line" style="animation-delay:0.084s">                                                                                                              </text>
+<text x="10" y="42.0" class="ascii-line" style="animation-delay:0.112s">                                                                                                              </text>
+<text x="10" y="49.0" class="ascii-line" style="animation-delay:0.140s">                                                                                                              </text>
+<text x="10" y="56.0" class="ascii-line" style="animation-delay:0.168s">                                                                                                              </text>
+<text x="10" y="63.0" class="ascii-line" style="animation-delay:0.196s">                                                                                                              </text>
+<text x="10" y="70.0" class="ascii-line" style="animation-delay:0.224s">                                                                                                              </text>
+<text x="10" y="77.0" class="ascii-line" style="animation-delay:0.252s">                                                                                                              </text>
+<text x="10" y="84.0" class="ascii-line" style="animation-delay:0.280s">                                                                                                              </text>
+<text x="10" y="91.0" class="ascii-line" style="animation-delay:0.308s">                                                                                                              </text>
+<text x="10" y="98.0" class="ascii-line" style="animation-delay:0.336s">                                                                                                              </text>
+<text x="10" y="105.0" class="ascii-line" style="animation-delay:0.364s">                                                                                                              </text>
+<text x="10" y="112.0" class="ascii-line" style="animation-delay:0.392s">                                             ,`:I:,,,^&lt;)!                                                     </text>
+<text x="10" y="119.0" class="ascii-line" style="animation-delay:0.420s">                                         !)z0pmzxtfJCzvzf|1~l                                                 </text>
+<text x="10" y="126.0" class="ascii-line" style="animation-delay:0.448s">                                      l{Q*owUO/__}vzvXLqdn{Un{&lt;                                               </text>
+<text x="10" y="133.0" class="ascii-line" style="animation-delay:0.476s">                                    {zYXkod0LnLCcok0c]}nMoj0XX*w&gt;                                             </text>
+<text x="10" y="140.0" class="ascii-line" style="animation-delay:0.504s">                                  |0zCkppd88M88%%8kcphLb@#*Y1l/Lku                                            </text>
+<text x="10" y="147.0" class="ascii-line" style="animation-delay:0.532s">                                &gt;nXt}tcULY*888wZkbh@*h88888rnXC(?LX&lt;'                                         </text>
+<text x="10" y="154.0" class="ascii-line" style="animation-delay:0.560s">                               (v\+_&gt;&lt;&gt;}uv|no0Um888888888888888t+&gt;)[}&gt;                                        </text>
+<text x="10" y="161.0" class="ascii-line" style="animation-delay:0.588s">                              `zx[\]&gt;]JaCXxI[1co#M%qz88888888b8*z)-?'('                                       </text>
+<text x="10" y="168.0" class="ascii-line" style="animation-delay:0.616s">                               Zz[-+~?O888CZJCq*k(  X88o88MxY88*8*%]?0n                                       </text>
+<text x="10" y="175.0" class="ascii-line" style="animation-delay:0.644s">                              ,t]kw(?^:&lt;)CbM888atxjtMhjLkwMd&lt;~!'I_Q8kQk                                       </text>
+<text x="10" y="182.0" class="ascii-line" style="animation-delay:0.672s">                               +.z8j!,l&lt;Iu888Qq888@@88888888akU0Zz)0\?t`                                      </text>
+<text x="10" y="189.0" class="ascii-line" style="animation-delay:0.700s">                                 f8Ca*|~^?Z0]:&gt;\O#8888888888888888MJLow?                                      </text>
+<text x="10" y="196.0" class="ascii-line" style="animation-delay:0.728s">                                 v8%88b-__1x[^;^_C88*k#*adqbk%8t}{Yb888/                                      </text>
+<text x="10" y="203.0" class="ascii-line" style="animation-delay:0.756s">                                 L88888ol?XdY.   C*MpLUYJ00ZwpWt0x\U8880                                      </text>
+<text x="10" y="210.0" class="ascii-line" style="animation-delay:0.784s">                                 d88888888zzr    c0q0zxvzYqQCYpY_}r18888,                                     </text>
+<text x="10" y="217.0" class="ascii-line" style="animation-delay:0.812s">                                `WW@88888888qrfvm{jLUnjt(\jtjjzuvUfih888x                                     </text>
+<text x="10" y="224.0" class="ascii-line" style="animation-delay:0.840s">                                [Wddo888888888@m8)\JXxt)u&gt; `xUmmCf{l08888                                     </text>
+<text x="10" y="231.0" class="ascii-line" style="animation-delay:0.868s">                                /cQpCp88888888L08+{urf\zO_Iz8b#aMd]IZ8888z                                    </text>
+<text x="10" y="238.0" class="ascii-line" style="animation-delay:0.896s">                                l~Cd0LbM888888@88cxYx|f/]Q8kmq0LY#C C88888i                                   </text>
+<text x="10" y="245.0" class="ascii-line" style="animation-delay:0.924s">                                 ijLwdbk#888888M8888888pkWUUQqodddW^Q88888\                                   </text>
+<text x="10" y="252.0" class="ascii-line" style="animation-delay:0.952s">                                 :~tz0dh*#88888h888888888888#kkzcZa?J888888I                                  </text>
+<text x="10" y="259.0" class="ascii-line" style="animation-delay:0.980s">                                 I!_(fcCUrzY0bo8w&lt;}zLa8888888888#Cdlv888888Y                                  </text>
+<text x="10" y="266.0" class="ascii-line" style="animation-delay:1.008s">                                 ,!&gt;i])/ruZkZoWwv.    ;|0@888888888xC8888888'                                 </text>
+<text x="10" y="273.0" class="ascii-line" style="animation-delay:1.036s">                                 ^l&gt;I!-t0ZLY(}zOor.      !_(C*888888888888880                                 </text>
+<text x="10" y="280.0" class="ascii-line" style="animation-delay:1.064s">                                 '!_~l:l|0*@WC ;|  `:l&gt;_[[}[~[nw@888888888888]                                </text>
+<text x="10" y="287.0" class="ascii-line" style="animation-delay:1.092s">                                  &gt;]_~;::i\YQOwkCw%8888888#bwz1[/Yb8888888888]                                </text>
+<text x="10" y="294.0" class="ascii-line" style="animation-delay:1.120s">                                 lX+-[]!;,I:t888888888888888888OCwdk88888888k'                                </text>
+<text x="10" y="301.0" class="ascii-line" style="animation-delay:1.148s">                               :n*o)~[([&lt;&lt;&lt;^#8W#W888888*a8888888888888888888a                                 </text>
+<text x="10" y="308.0" class="ascii-line" style="animation-delay:1.176s">                               &gt;v888C1)|)?+&gt;~?&lt;&gt;&gt;'`I!~1|(tv0b#8888888888888k&gt;                                 </text>
+<text x="10" y="315.0" class="ascii-line" style="animation-delay:1.204s">                                I[jb8wz\t)+!:  .^      &gt;[{]~!&gt;]/Xh8888888qv}[l                                </text>
+<text x="10" y="322.0" class="ascii-line" style="animation-delay:1.232s">                                 ^!x888krx/-I``.`[+ :tYnncXx/{-\0@888@#aZYr}fv{&gt;.                             </text>
+<text x="10" y="329.0" class="ascii-line" style="animation-delay:1.260s">                                  '(88888Yuuf1]-_xvZa8888888888888888#X1(xj((ujj\?;                           </text>
+<text x="10" y="336.0" class="ascii-line" style="animation-delay:1.288s">                                   ld88888hLXCJXc)(uXcCa@88888888888Mp0zzcnt)jf]}/ru_                         </text>
+<text x="10" y="343.0" class="ascii-line" style="animation-delay:1.316s">                                    ]88888888WCj[:         !]xZqhkZLOO0CCYvr\\jf|{ux|+                        </text>
+<text x="10" y="350.0" class="ascii-line" style="animation-delay:1.344s">                                     (88888Mu[I.  .           `nzr/nUQUXYUzr(|f{~tj[|c/                       </text>
+<text x="10" y="357.0" class="ascii-line" style="animation-delay:1.372s">                                      /88p(+i'                 fj(\uvnzOw0OYjt1+|/[/Xcz&gt;                      </text>
+<text x="10" y="364.0" class="ascii-line" style="animation-delay:1.400s">                                       )/?_,                    ;&gt;JdOYX0pkpmLzj{11)nzX{`                      </text>
+<text x="10" y="371.0" class="ascii-line" style="animation-delay:1.428s">                                                                l?\czxjnXzCdhkomc(jQQ)^                       </text>
+<text x="10" y="378.0" class="ascii-line" style="animation-delay:1.456s">                                                                 !](|(|\}|q@88hbOrOY?.                        </text>
+<text x="10" y="385.0" class="ascii-line" style="animation-delay:1.484s">                                                                  ,]{11[|a8888WppZ|:                          </text>
+<text x="10" y="392.0" class="ascii-line" style="animation-delay:1.512s">                                                                    i_+[k88888MMM#+                           </text>
+<text x="10" y="399.0" class="ascii-line" style="animation-delay:1.540s">                                                                     ;?#8888888888q                           </text>
+<text x="10" y="406.0" class="ascii-line" style="animation-delay:1.568s">                                                                     IW88888888888W!                          </text>
+<rect class="cursor" x="410.4" y="400.0" width="3.6" height="7.0"/>
+</svg>

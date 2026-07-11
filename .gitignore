@@ -1,0 +1,9 @@
+# Raw and intermediate portrait files -- keep these local only.
+# The public repo only needs the generated avi-ascii.svg.
+source.jpg
+source.jpeg
+source.png
+source-prepped.png
+
+__pycache__/
+*.pyc
