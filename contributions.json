@@ -1,42 +1,7 @@
 {
   "username": "Rohitpr05",
-  "generated_at": "2026-08-01T06:10:41.547347+00:00",
+  "generated_at": "2026-08-02T06:14:08.300440+00:00",
   "days": [
-    {
-      "date": "2025-07-27",
-      "count": 27,
-      "level": 3
-    },
-    {
-      "date": "2025-07-28",
-      "count": 33,
-      "level": 4
-    },
-    {
-      "date": "2025-07-29",
-      "count": 10,
-      "level": 2
-    },
-    {
-      "date": "2025-07-30",
-      "count": 9,
-      "level": 1
-    },
-    {
-      "date": "2025-07-31",
-      "count": 15,
-      "level": 2
-    },
-    {
-      "date": "2025-08-01",
-      "count": 25,
-      "level": 3
-    },
-    {
-      "date": "2025-08-02",
-      "count": 3,
-      "level": 1
-    },
     {
       "date": "2025-08-03",
       "count": 2,
@@ -1856,11 +1821,16 @@
       "date": "2026-08-01",
       "count": 0,
       "level": 0
+    },
+    {
+      "date": "2026-08-02",
+      "count": 0,
+      "level": 0
     }
   ],
   "stats": {
-    "total": 1813,
-    "longest_streak": 55,
+    "total": 1691,
+    "longest_streak": 48,
     "current_streak": 0
   }
 }
